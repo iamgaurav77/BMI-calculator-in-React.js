@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+
+.buttonStyle { 
+       background-color: green;
+       color: white;
+       font:inherit;
+       border:1px solid green;
+       padding: 8px;
+       cursor:pointer;
+       margin-top: 20px;
+    }
+
+.buttonStyle:hover {
+  background-color: lightgreen;
+  color: black;
+}    
+
+.crd{
+  width: 30%;
+  height: 360px;
+  margin:auto;
+  border: 3px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align:center;
+}
+
+
+.crd2{
+  width: 40%;
+  margin:auto;
+  font-size: 60px;
+  border: 2px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  text-align:center;
+}
+
+.div {
+  text-align: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.inputStyle { 
+       padding: 8px;
+       cursor:pointer;
+       margin-right: 100px;
+       margin-left: 25px;
+       width: 80px;
+       margin-top: 70px;
+    }
+
+  
+
+.inputStyle2 { 
+       padding: 8px;
+       cursor:pointer;
+       margin-left: 50px;
+       width: 80px;
+       margin-top: 70px;
+    }
+
+.name {
+  text-align: center;
+  display: inline-flex;
+}   
+
+.name1 { 
+       margin-right: 100px;
+       margin-left: 30px;
+       margin-top: 5px;
+       font-size: 16px;
+    }
+
+  
+
+.name2 { 
+       margin-left: 78px;
+       margin-top: 5px;
+       font-size: 16px;
+    }
+
+
